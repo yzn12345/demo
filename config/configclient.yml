@@ -7,4 +7,3 @@ eureka:
 spring:
   application:
     name: configclient
-    
